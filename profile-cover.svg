@@ -22,8 +22,6 @@
   <rect width="1200" height="260" rx="18" fill="url(#g)"/>
   <circle cx="1000" cy="-30" r="170" fill="#d8f1ff" opacity=".45" filter="url(#blur)"><animate attributeName="cx" values="1000;920;1000" dur="7s" repeatCount="indefinite"/></circle>
   <circle cx="150" cy="290" r="130" fill="#030a13" opacity=".45" filter="url(#blur)"><animate attributeName="cx" values="150;250;150" dur="9s" repeatCount="indefinite"/></circle>
-  <text x="600" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-2" fill="#06172a" opacity=".35" transform="translate(0 4)">tiago rosario</text>
   <text x="600" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-2" fill="url(#glass)" stroke="#f5fcff" stroke-opacity=".58" stroke-width=".8" paint-order="stroke fill" filter="url(#glassShadow)">tiago rosario</text>
-  <text x="600" y="89" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-2" fill="none" stroke="#ffffff" stroke-opacity=".5" stroke-width="1.2" transform="scale(1 .22) translate(0 305)">tiago rosario</text>
-  <text x="600" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" letter-spacing="2" fill="#eff6ff">COMPUTAÇÃO · DESIGN · IDEIAS EM MOVIMENTO</text>
+  <text x="600" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" letter-spacing="2" fill="#eff6ff">computação · design · ideias em movimento</text>
 </svg>
