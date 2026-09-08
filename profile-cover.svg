@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101111"><animate attributeName="stop-color" values="#101111;#263c1c;#101111" dur="8s" repeatCount="indefinite"/></stop>
-      <stop offset=".5" stop-color="#3e6524"><animate attributeName="stop-color" values="#3e6524;#b4ea41;#3e6524" dur="8s" repeatCount="indefinite"/></stop>
-      <stop offset="1" stop-color="#d7ff54"><animate attributeName="stop-color" values="#d7ff54;#6ea838;#d7ff54" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="0" stop-color="#07111f"><animate attributeName="stop-color" values="#07111f;#102b4d;#07111f" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset=".5" stop-color="#175487"><animate attributeName="stop-color" values="#175487;#429fde;#175487" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#58b6ff"><animate attributeName="stop-color" values="#58b6ff;#2174b5;#58b6ff" dur="8s" repeatCount="indefinite"/></stop>
     </linearGradient>
     <filter id="blur"><feGaussianBlur stdDeviation="38"/></filter>
   </defs>
   <rect width="1200" height="260" rx="18" fill="url(#g)"/>
-  <circle cx="1000" cy="-30" r="170" fill="#efffc1" opacity=".45" filter="url(#blur)"><animate attributeName="cx" values="1000;920;1000" dur="7s" repeatCount="indefinite"/></circle>
-  <circle cx="150" cy="290" r="130" fill="#071005" opacity=".4" filter="url(#blur)"><animate attributeName="cx" values="150;250;150" dur="9s" repeatCount="indefinite"/></circle>
-  <text x="600" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-2" fill="#f6f7ee">tiago rosario</text>
-  <text x="600" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" letter-spacing="2" fill="#f6f7ee">COMPUTAÇÃO · DESIGN · IDEIAS EM MOVIMENTO</text>
+  <circle cx="1000" cy="-30" r="170" fill="#d8f1ff" opacity=".45" filter="url(#blur)"><animate attributeName="cx" values="1000;920;1000" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="290" r="130" fill="#030a13" opacity=".45" filter="url(#blur)"><animate attributeName="cx" values="150;250;150" dur="9s" repeatCount="indefinite"/></circle>
+  <text x="600" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-2" fill="#eff6ff">tiago rosario</text>
+  <text x="600" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" letter-spacing="2" fill="#eff6ff">COMPUTAÇÃO · DESIGN · IDEIAS EM MOVIMENTO</text>
 </svg>
